@@ -3,9 +3,8 @@ build/
 .vscode/
 
 # Files
+.gitignore
 .gitattributes
-.gitignore
-.gitignore
 .DS_Store
 ArduPong/Images/Court.psd
 ArduPong/Images/TitleScreen.psd
@@ -13,4 +12,3 @@ ArduPong/Images/TitleScreenBall.psd
 ArduPong/Images/TitleScreen copy.png
 ArduPong/Images/TitleScreenBall.png
 ArduPong/Images/Court.png
-.gitignore
